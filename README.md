@@ -1,9 +1,7 @@
-# Digital Library frontend
+# React application draft
+[Forked from](https://github.com/mordv/clean)
 
 ## Configuring environment
-- nodeJS 20.17.0
-- npm 10.8.3
-
 ```bash
 npm install
 ```
