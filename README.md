@@ -1,5 +1,12 @@
-# React application draft
+# React template
 [Forked from](https://github.com/mordv/clean)
+
+## Easy getting
+```bash
+npm install -g degit
+
+degit KozlovKV/react-template
+```
 
 ## Configuring environment
 ```bash
